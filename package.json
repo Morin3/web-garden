@@ -54,7 +54,7 @@
     "eslint-plugin-react-hooks": "4.6.0",
     "eslint-plugin-tsdoc": "0.2.17",
     "eslint-plugin-vue": "9.9.0",
-    "lerna": "6.5.1",
+    "lerna": "8.2.1",
     "markdown-magic": "^2.6.1",
     "markdown-magic-directory-tree": "^1.2.4",
     "markdown-magic-install-command": "^2.0.0",
